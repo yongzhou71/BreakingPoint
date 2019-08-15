@@ -1,0 +1,9 @@
+Limitations:
+Before running the sample scripts...
+
+ - Please make sure you have proper license(s) installed on the BPS platform:
+  a) for BPS HW, please make sure your unit is properly licensed with IxOS and ATI licenses;
+  b) for BPS-VE, please make sure you have at least two 10G licenses activated.
+  
+ - Please make sure the intended ports required for the test are not reserved by other user
+  a) the workaround is to add unreserve ports before reserve ports into the script to clear the existing ownership by other user.
